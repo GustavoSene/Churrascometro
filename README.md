@@ -1,0 +1,2 @@
+# Projeto-Churrasc-metro
+Projeto proposto no curso ProgBR que tem função de mesclar HTML, CSS e Javascript em um site que calcule, com base na quantidade de participantes, a quantidade de itens necessária para um churrasco, os itens perguntados são: Duração do evento, número de adultos e número de crianças, crianças consomem os itens pela metade, e se o evento durar mais de 6 horas, o consumo de mantimentos geral aumenta
